@@ -1,4 +1,4 @@
-# website
+# GeoCorps Website
 
 The purpose of this repo is to host GeoCorps Website for Volunteers and Clients. 
 <br>
