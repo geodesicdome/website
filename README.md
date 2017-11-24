@@ -7,6 +7,7 @@ People can apply to be a volunteer or a client
 Page also features link to BayGeo membership
 <br><br>
 <a href="https://geo-corps.github.io/website/">https://geo-corps.github.io/website/</a>
+<br><br>
 <a href="mailto:awade@baygeo.com?Subject=GeoCorps">Questions, comments, concerns?</a>
 <center>
 <img src='https://i.imgur.com/V58Rjs5.png' />
